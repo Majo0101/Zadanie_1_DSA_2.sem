@@ -1,0 +1,14 @@
+kniha;dielo vydane tlacou v samostatnom zvazku
+knihar;odbornik na viazanie knih
+aplikacia;aplikovanie novych metod
+pero;nastroj na pisanie al. kreslenie
+programovat;zostavovat program do pocitacov
+meno; slovne oznacenie niekoho, niecoho, pomenovanie, nazov
+stolicka; vec na sedenie
+sandokan; biblicky hrdnina
+auto; prostriedok na presun
+fututut; monolog priatelky
+telefon; prostriedok na komunikaciu
+a; spojka
+dnu; do niecoho
+do; smerovanie 

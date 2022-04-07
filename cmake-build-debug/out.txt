@@ -1,0 +1,100 @@
+'slovnik' found...
+
+
+Choose one option
+1. Starting
+2. Containing
+3. Ending
+4. Stop
+
+Your choice is: 1
+
+Use small letters without diacritics
+Enter the first three characters of the word
+
+Results...
+
+a-spojka
+
+
+
+Choose one option
+1. Starting
+2. Containing
+3. Ending
+4. Stop
+
+Your choice is: 2
+
+Use letters without diacritics
+Enter the all characters in the word
+
+NO MATCH!!!
+
+
+Choose one option
+1. Starting
+2. Containing
+3. Ending
+4. Stop
+
+Your choice is: 2
+
+Use letters without diacritics
+Enter the all characters in the word
+
+NO MATCH!!!
+
+
+Choose one option
+1. Starting
+2. Containing
+3. Ending
+4. Stop
+
+Your choice is: 2
+
+Use letters without diacritics
+Enter the all characters in the word
+
+NO MATCH!!!
+
+
+Choose one option
+1. Starting
+2. Containing
+3. Ending
+4. Stop
+
+Your choice is: 2
+
+Use letters without diacritics
+Enter the all characters in the word
+Results...
+kniha-dielo vydane tlacou v samostatnom zvazku
+
+
+Choose one option
+1. Starting
+2. Containing
+3. Ending
+4. Stop
+
+Your choice is: 3
+
+Use letter without diacritics
+Enter the last character in the word
+Results...
+knihar-odbornik na viazanie knih
+
+
+
+Choose one option
+1. Starting
+2. Containing
+3. Ending
+4. Stop
+
+Your choice is: 4
+
+Thank you, Bye
